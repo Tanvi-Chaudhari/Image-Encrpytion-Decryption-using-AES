@@ -59,3 +59,7 @@
 - The program is designed to handle various error cases and provide appropriate alerts or warnings.
 - For instance, attempting encryption or decryption without inputting the encryption key triggers alerts, prompting the user to enter the key.
 - Warnings and alerts are strategically placed in the code to guide users and ensure proper usage of the program.
+
+## Resources
+- [Here](https://github.com/aditya-agrawal16/Image-Encryption-and-Decryption-using-AES-algorithm)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/advanced-encryption-standard-aes/)
